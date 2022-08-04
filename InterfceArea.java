@@ -24,7 +24,7 @@ public class InterfceArea implements AreaOfCircle,AreaOfRect {
 		InterfceArea obj=new InterfceArea();
 		System.out.println("Area of circle :"+obj.circle(2));
 		System.out.println("Area of Reac :"+obj.Rect(2, 3, 4));
-		
+		System.out.println("all files are correct ");
 
 
 	}
